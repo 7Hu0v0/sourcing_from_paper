@@ -1,0 +1,6 @@
+display_name: CVPR Industry Scout
+short_description: Classify CVPR papers by industry involvement and source author LinkedIn profiles.
+default_prompt: >-
+  Analyze these CVPR/top-conference papers. For each paper, identify the paper direction,
+  whether it has industry involvement, exact industry institutions, industry authors grouped
+  by institution with interns marked, and likely LinkedIn profiles with evidence.
