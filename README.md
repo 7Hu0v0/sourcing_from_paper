@@ -1,4 +1,4 @@
-# CVPR Industry Scout Skill
+# 顶会开源Skill
 
 一个用于 CVPR / ICCV / NeurIPS / ICML 等顶会论文产业机构识别与作者 sourcing 的 Codex skill。
 
