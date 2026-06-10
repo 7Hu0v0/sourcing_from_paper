@@ -1,6 +1,6 @@
 # 顶会开源Skill
 
-一个用于 CVPR / ICCV / NeurIPS / ICML 等顶会论文产业机构识别与作者 sourcing 的 Codex skill。
+一个用于 CVPR / ICCV / NeurIPS / ICML 等顶会论文产业机构识别与作者 sourcing 的 Workbuddy/Codex/Claude Code skill。
 
 它会对论文逐篇整理：
 
